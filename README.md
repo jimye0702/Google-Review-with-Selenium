@@ -1,5 +1,5 @@
 # Google-Review-with-Selenium
-spider google review with selenium
+scrape google review with selenium
 
 Selenium API：https://selenium-python.readthedocs.io/api.html     
 Download Chrome Driver:https://sites.google.com/a/chromium.org/chromedriver/
